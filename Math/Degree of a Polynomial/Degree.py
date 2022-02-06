@@ -30,3 +30,6 @@ def Degrees(Expression, AsNomial=False):
 
         else:
             return "Polynomial"
+    
+    elif AsNomial is False:
+        return Degrees
