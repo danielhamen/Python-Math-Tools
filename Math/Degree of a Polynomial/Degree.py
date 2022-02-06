@@ -1,4 +1,4 @@
-def GetDegrees(Expression, AsNomial=False):
+def Degrees(Expression, AsNomial=False):
     """
     Returns the degrees of an expression
 
