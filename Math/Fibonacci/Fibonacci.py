@@ -1,9 +1,14 @@
 class Fibonacci:
+    """
+    A class to get the Fibonacci sequence
+    """
+
     def __init__(self, Length):
         self.StartValue = 0
         self.NextValue = 1
         self.Length = Length
     
+    # Starts the sequence
     def Start(self):
         Sequence = [str(self.StartValue)]
         Step = False
