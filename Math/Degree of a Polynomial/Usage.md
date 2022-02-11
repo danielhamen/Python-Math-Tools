@@ -9,6 +9,8 @@ print(Deg)
 
 >>> Polynomial
 
+#########################
+
 Deg = Degrees(x, False)
 
 print(Deg)
